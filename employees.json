@@ -1,0 +1,17 @@
+{
+  "E01": {
+    "employee_id": "E01",
+    "name": "Rahul",
+    "department": "IT",
+    "monthly_salary": 8000.0,
+    "type": "fulltime"
+  },
+  "67": {
+    "employee_id": "67",
+    "name": "yy",
+    "department": "kh",
+    "monthly_salary": 789.0,
+    "type": "manager",
+    "bonus": 89.0
+  }
+}
